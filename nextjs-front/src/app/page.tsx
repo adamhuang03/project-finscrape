@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center p-24 gap-6">
       <div className="text-7xl flex space-x-4">
-        <span className="fade-in word-1">Adam's</span>
+        <span className="fade-in word-1">Adam&apos;s</span>
         <span className="fade-in word-2">Humble</span>
         <span className="fade-in word-3">Abode</span>
       </div>
